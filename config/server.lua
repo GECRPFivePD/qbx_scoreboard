@@ -9,15 +9,15 @@ return {
             label = 'Bank Robbery'
         },
         jewellery = {
-            minimumPolice = 2,
+            minimumPolice = 1,
             label = 'Jewelry'
         },
         pacific = {
-            minimumPolice = 5,
+            minimumPolice = 3,
             label = 'Pacific Bank'
         },
         paleto = {
-            minimumPolice = 4,
+            minimumPolice = 3,
             label = 'Paleto Bay Bank'
         }
     }
